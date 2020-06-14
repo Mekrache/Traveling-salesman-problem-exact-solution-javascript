@@ -1,4 +1,4 @@
-# The exact solution of the Traveling Salesman Problem
+# The exact solution of the Traveling Salesman Problem (TSP)
 ## Introduction 
 The travelling salesman problem (TSP) asks the following question: 
 
