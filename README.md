@@ -10,4 +10,6 @@ TSP can be modelled as an undirected weighted graph, such that cities are the gr
 </p>
 
 ## Exact algorithm
-The solution that i implemented would be to try all permutations (ordered combinations) and see which one is cheapest (using brute-force search). The running time for this approach lies within a polynomial factor of {\displaystyle O(n!)} O(n!), the factorial of the number of cities, so this solution becomes impractical even for only 20 cities.
+The solution that i implemented would be to try all permutations (ordered combinations) and see which one is cheapest (using brute-force search). 
+
+The running time for this approach lies within a polynomial factor of O(n!), the factorial of the number of cities, so this solution becomes impractical even for only 20 cities.
